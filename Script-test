@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+#This is me trying out scripting
+
+echo "What is your name?"
+read  Person
+echo "Hello, $Person"
+
