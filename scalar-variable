@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#variable_name=variable_value
+
+NAME="Avbayeru Gabriella"
+echo $NAME
+
